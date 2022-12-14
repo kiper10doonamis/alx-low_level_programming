@@ -1,1 +1,1 @@
-I'm excited about learning the C programming language
+ this repository contains everything C programming language 
