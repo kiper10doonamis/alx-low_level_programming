@@ -13,7 +13,7 @@ int main(void)
 {
 	int n;
 	int L;
-	char strg[] = "last digit of";
+	char strg[] = "Last digit of";
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
