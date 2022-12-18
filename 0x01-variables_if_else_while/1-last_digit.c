@@ -25,11 +25,11 @@ int main(void)
 	}
 	else if (L == 0)
 	{
-		printf("%s %d is %d and is zero\n", strg, n, L);
+		printf("%s %d is %d and is 0\n", strg, n, L);
 	}
 	else if ((L < 6) && (L != 0))
 	{
-		printf("%s %d is %d and is less than 6 and not zero\n", strg, n, L);
+		printf("%s %d is %d and is less than 6 and not 0\n", strg, n, L);
 	}
 	return (0);
 }
